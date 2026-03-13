@@ -203,6 +203,22 @@ Several operations require special treatment:
 
 ---
 
+## Résultats
+
+### XOR — Frontière de décision
+![XOR Results](results/xor_results.png)
+
+### Régression Linéaire
+![Regression Results](results/regression_results.png)
+
+### MLP Benchmark (10 classes)
+![MLP Benchmark](results/mlp_benchmark.png)
+
+### Graphe Computationnel & Backpropagation
+![Autograd Graph](results/autograd_graph.png)
+
+---
+
 ## Examples
 
 ### Linear Regression
